@@ -1,0 +1,4 @@
+enum PreferenceType {
+  liked,
+  disliked,
+}
